@@ -1,11 +1,11 @@
 # 310o-Pawkour
-<img src= "https://github.com/sequoiag/310o-Pawkour/blob/main/Images/Flowchart%20(1).png" alt="FlowChart">
 Prompt: Everything is Alive
 
 
 Youtube Video: https://youtu.be/_GVFd6o0dIw
 
 Github Link: https://github.com/sequoiag/310o-Pawkour
+<img src= "https://github.com/sequoiag/310o-Pawkour/blob/main/Images/Flowchart%20(1).png" alt="FlowChart">
 
 I interpreted the game these of Everything is Alive with a rather literal sense. I decided to make all the 
 objects in my game space living objects to be incorporated into a parkour game. I attempted to make living buildings to be enemies of my main character the cat, however the complexity of it didnt match fully with the
