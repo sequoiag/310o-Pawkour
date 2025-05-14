@@ -1,5 +1,5 @@
 # 310o-Pawkour
-<img src="https://github.com/sequoiag/310o-Pawkour/blob/main/Images/Flowchart.png" alt="FlowChart">
+<img src="https://github.com/sequoiag/310o-Pawkour" alt="FlowChart">
 Prompt: Everything is Alive
 
 
