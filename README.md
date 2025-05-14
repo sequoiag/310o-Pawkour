@@ -14,11 +14,11 @@ the prompt to be exiting and fun!
 ## Game Play Instructions
 <img src= "https://github.com/sequoiag/310o-Pawkour/blob/main/Images/Flowchart%20(1).png" alt="FlowChart">
 
-Level Objectives
+### Level Objectives
 * City Scape (Level 1) - Get to the coffee shop!
 * Coffee Shop (Level 2) - Get to the cube using the living objects!
 * Roof Top (Level 3) - Dont touch the floor and find the piece of toast!
-Bonuses
+### Bonuses
 *  Collect as many fish as you can!
 
 ## Controls
