@@ -8,8 +8,8 @@ I interpreted the game theme of Everything is Alive with a rather literal sense.
 objects in my game space living objects to be incorporated into a parkour game. I attempted to make living buildings
 to be enemies of my main character the cat. Howevever, In addition to struggling with their implementation, the 
 complexity of it didnt match fully with the low poly style I was using, so I decided to only make two living buildings.
-For the rest of my moving objects I just wrote a short little script that moves my objects back and for and then gave
-them eyes to embody sentience. In addition I made sure to put eyes on the other non moving objects in my scene. Overwall
+For the rest of my moving objects I just wrote a short little script that moves them back and forth and then gave
+them eyes to embody sentience. In addition I made sure to put eyes on the other non-moving objects in my scene. Overwall
 I found the prompt to be exiting and fun!
 
 ## Game Play Instructions
