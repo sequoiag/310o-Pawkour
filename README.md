@@ -12,6 +12,7 @@ sentience. In addition I made sure to put eyes on the other non moving objects i
 the prompt to be exiting and fun!
 
 ## Game Play Instructions
+<img src= "https://github.com/sequoiag/310o-Pawkour/blob/main/Images/Flowchart%20(1).png" alt="FlowChart">
 Level Objectives
 * City Scape (Level 1) - Get to the coffee shop!
 * Coffee Shop (Level 2) - Get to the cube using the living objects!
@@ -25,8 +26,6 @@ Bonuses
 | WASD | Movement |
 | Space | Jump |
 | Cursor | Press Buttons |
-
-<img src= "https://github.com/sequoiag/310o-Pawkour/blob/main/Images/Flowchart%20(1).png" alt="FlowChart">
 
 ## Assets
 Main Menu
