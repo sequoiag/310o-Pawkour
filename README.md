@@ -25,7 +25,7 @@ Main Menu
 * Buttons Assets: https://assetstore.unity.com/packages/2d/gui/pinky-ui-274048
 
 Game Play
-* Enemy AI: FULL 3D ENEMY AI in 6 MINUTES! || Unity Tutorial
+* Enemy AI: [FULL 3D ENEMY AI in 6 MINUTES! || Unity Tutorial](https://www.youtube.com/watch?v=UjkSFoLxesw)
 * Lava: https://www.youtube.com/watch?v=is2pXIH6E3I
 * Buildings: https://assetstore.unity.com/packages/3d/environments/simplepoly-city-low-poly-assets-58899
 * Coffee Shop: https://assetstore.unity.com/packages/3d/props/coffeeshop-starter-pack-160914
