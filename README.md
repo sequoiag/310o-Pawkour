@@ -18,4 +18,4 @@ the prompt to be exiting and fun!
 | Space | Jump |
 | Cursor | Press Buttons |
 
-** Assets
+## Assets
