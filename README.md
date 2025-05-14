@@ -12,5 +12,8 @@ I just wrote a short little script that moves my objects back and for and then g
 sentience. In addition I made sure to put eyes on the other non moving objects in my scene. Overwall I found 
 the prompt to be exiting and fun!
 
-|*--*|*--*|*--*|
-|    |    |    |
+|Key|Action|
+|:-------:|:-----:|
+| WASD | Movement |
+| Space | Jump |
+| Cursor | Press Buttons |
