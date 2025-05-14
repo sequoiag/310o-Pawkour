@@ -12,7 +12,16 @@ low poly style I was using so I decided to only make two living buildings. For t
 I just wrote a short little script that moves my objects back and for and then gave them eyes to embody 
 sentience. In addition I made sure to put eyes on the other non moving objects in my scene. Overwall I found 
 the prompt to be exiting and fun!
-## Control Scheme
+
+## Game Play Instructions
+Level Objectives
+* City Scape (Level 1) - Get to the coffee shop!
+* Coffee Shop (Level 2) - Get to the cube using the living objects!
+* Roof Top (Level 3) - Dont touch the floor and find the piece of toast!
+Bonuses
+*  Collect as many fish as you can!
+
+## Controls
 |Key|Action|
 |:-------:|:-----:|
 | WASD | Movement |
